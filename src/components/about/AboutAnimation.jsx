@@ -27,15 +27,24 @@ const AboutAnimation = () => {
           <div className="short">
             <h3>Сендажы Алена Федоровна</h3>
             <h5>
-              A Lead <span className="theme-color"> Visual Artist </span>
-              based in <span className="theme-color">America</span>
+              Профессиональный{" "}
+              <span className="theme-color">
+                {" "}
+                преподаватель английского языка{" "}
+              </span>
+              в городе <span className="theme-color">Кызыле</span>
             </h5>
             <p>
-              I design and develop services for customers specializing creating
-              stylish, modern websites, web services and online stores. My
-              passion is to design digital user experiences through meaningful
-              interactions. Check out my Portfolio
+              "Добро пожаловать на мой сайт! Рада приветствовать Вас здесь, где
+              Вы сможете освоить английский язык на высоком уровне. Независимо
+              от Вашего опыта и возраста, у нас есть готовое решение для Вас.
+              Уникальная методика обучения, индивидуальный подход и
+              разнообразные программы помогут Вам достичь своих целей в изучении
+              английского. Дайте нам возможность помочь Вам стать свободными и
+              уверенными в использовании английского языка. Присоединяйтесь к
+              моим ученикам, которые уже оценили качественное преподавание. "
             </p>
+            <p>Добро пожаловать в мир языковых возможностей!</p>
           </div>
           <div className="extra">
             <h3 className="title">Personal Info</h3>
