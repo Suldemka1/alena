@@ -25,7 +25,7 @@ const AboutAnimation = () => {
           data-aos-delay="50"
         >
           <div className="short">
-            <h3>Сендажи Алена Федоровна</h3>
+            <h3>Сендажы Алена Федоровна</h3>
             <h5>
               A Lead <span className="theme-color"> Visual Artist </span>
               based in <span className="theme-color">America</span>
@@ -43,7 +43,7 @@ const AboutAnimation = () => {
               <ul>
                 <li>
                   <p>
-                    <span>Имя :</span> Сендажи Алена Федоровна
+                    <span>Имя :</span> Сендажы Алена Федоровна
                   </p>
                 </li>
                 <li>

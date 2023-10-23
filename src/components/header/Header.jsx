@@ -66,12 +66,12 @@ const Header = () => {
                     <span className="second">Мои услуги</span>
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a href="#portfolio">
                     <span className="first">Portfolio</span>
                     <span className="second">Portfolio</span>
                   </a>
-                </li>
+                </li> */}
                 <li>
                   <a href="#news">
                     <span className="first">Мои новости</span>
@@ -84,14 +84,14 @@ const Header = () => {
                     <span className="second">Контакты</span>
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a href="https://themeforest.net/checkout/from_item/33910000?license=regular">
                     <span className="wrapper">
                       <span className="first">Записаться</span>
                       <span className="second">Записаться</span>
                     </span>
                   </a>
-                </li>
+                </li> */}
               </Scrollspy>
             </div>
           </div>
